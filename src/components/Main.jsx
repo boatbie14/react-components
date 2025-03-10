@@ -1,6 +1,6 @@
 function Main() {
     return (
-        <>
+        <main>
         <div className="company-detail-left">
           <h1>Welcome to XYZ Corp</h1>
           <p>Your Trusted Partner in Excellence</p>
@@ -28,7 +28,7 @@ function Main() {
           </p>
           <button className="learn-button">Learn More</button>
         </div>
-        </>
+        </main>
     )
 }
 
